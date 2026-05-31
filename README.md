@@ -24,4 +24,4 @@ This application was developed as a milestone project within the **Hyperskill / 
 ## How to Run
 1. Open the project root folder in IntelliJ IDEA.
 2. Run the `main()` function inside `Calculator.kt`.
-3. Type in '/help' for instructions.
+3. Type in `/help` for instructions.

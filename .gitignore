@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Smart Calculator (Kotlin)/*
+!/Smart Calculator (Kotlin)/task/
+/Smart Calculator (Kotlin)/task/*
+!/Smart Calculator (Kotlin)/task/src
+!/Smart Calculator (Kotlin)/task/test
